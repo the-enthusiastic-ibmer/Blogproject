@@ -103,8 +103,8 @@ figcaption {
   font-family: 'Gothic A1', sans-serif;
 }
 
-/* Media Query for Mobile */
-@media screen and (max-width: 320px){
+/* Media Query for Mobile and Tablets */
+@media screen and (max-width: 768px){
     .container {
     margin-left: auto;
     display: grid;
